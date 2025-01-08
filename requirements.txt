@@ -1,0 +1,4 @@
+movis
+Pillow
+numpy
+cupy-cuda12x
